@@ -7,7 +7,7 @@
 - <b>C# (.NET Desktop Applications)</b>
   - [Unity Project (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Python</b>
-  - [Original Calendar Application Template (School project)][(https://github.com/MunkhErdene-Mue/OriginalCalendarTemplatePythonProject)]
+  - [Original Calendar Application Template (School project)](https://github.com/MunkhErdene-Mue/OriginalCalendarTemplatePythonProject)
 - <b>Web design</b>
   - [Travel Website (School project)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
