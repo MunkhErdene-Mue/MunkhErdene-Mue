@@ -4,12 +4,10 @@
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Collage Graduation project: Added function to the Open source(Automatarium)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>C# (.NET Desktop Applications)</b>
-  - [Unity Project (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Python</b>
   - [Original Calendar Application Template (School project)](https://github.com/MunkhErdene-Mue/OriginalCalendarTemplatePythonProject)
 - <b>Web design</b>
-  - [Travel Website (School project)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Travel Website (School project)](https://github.com/MunkhErdene-Mue/TravelWebCiteProject1)
 
 <h2>📺 YouTube Videos</h2>
 
