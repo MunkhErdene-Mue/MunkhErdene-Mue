@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Collage Graduation project: Added function to the Open source(Automatarium)](https://github.com/MunkhErdene-Mue/ColAutomataDocument) <b><i>(Potentially NSFW)</b></i>
+  - [Collage Graduation project: Added function to the Open source(Automatarium)](https://github.com/MunkhErdene-Mue/ColAutomataDocument) 
 - <b>Python</b>
   - [Original Calendar Application Template (School project)](https://github.com/MunkhErdene-Mue/OriginalCalendarTemplatePythonProject)
 - <b>Web design</b>
