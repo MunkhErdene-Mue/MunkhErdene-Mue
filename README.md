@@ -12,7 +12,6 @@
 <h2>📺 YouTube Videos</h2>
 
 - [ColAutomata: Creating NCFA](https://www.youtube.com/watch?v=5SLq0A5yiDI&t=20s)
-- 
 
 <h2> 🤳 Connect with me:</h2>
 
