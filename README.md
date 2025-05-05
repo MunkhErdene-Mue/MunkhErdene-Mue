@@ -5,13 +5,14 @@
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Collage Graduation project: Added function to the Open source(Automatarium)](https://github.com/MunkhErdene-Mue/ColAutomataDocument) 
 - <b>Python</b>
-  - [Original Calendar Application Template (School project)](https://github.com/MunkhErdene-Mue/OriginalCalendarTemplatePythonProject)
+  - [Original Calendar Application Template (College project)](https://github.com/MunkhErdene-Mue/OriginalCalendarTemplatePythonProject)
 - <b>Web design</b>
-  - [Travel Website (School project)](https://github.com/MunkhErdene-Mue/TravelWebCiteProject1)
+  - [Travel Website (College project)](https://github.com/MunkhErdene-Mue/TravelWebCiteProject1)
 
 <h2>📺 YouTube Videos</h2>
 
 - [ColAutomata: Creating NCFA](https://www.youtube.com/watch?v=5SLq0A5yiDI&t=20s)
+- 
 
 <h2> 🤳 Connect with me:</h2>
 
